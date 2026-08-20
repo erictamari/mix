@@ -11,6 +11,8 @@ Dashboard, Vendas, Financeiro, Compras, Insumos, Estoque, Fichas Técnicas, Prod
 - Registro de vendas com baixa automática dos ingredientes da ficha técnica.
 - Compras atualizam estoque e preço do insumo.
 - Fichas técnicas calculam custo, CMV e markup.
+- **Imagem do produto** nos cards da página Fichas (campo opcional ao editar/criar produto).
+- **Filtro por período** na página Financeiro (de/até) para lançamentos.
 - Dashboard com indicadores e gráficos.
 - Backup e restauração JSON.
 - Dados persistidos no navegador.
